@@ -21,3 +21,6 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+/StocksAndShares/nbproject/private/
+/StocksAndShares/build/
+/StocksAndShares/dist/
